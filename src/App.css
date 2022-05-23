@@ -1,0 +1,23 @@
+
+
+                <Topline lighttopline={lighttopline}>{Topline}</Topline>
+                        <Heading lighttext={lighttext}>{Headline}</Heading>
+                        <Subtitle lighttextdec={lighttextdec}>{description}</Subtitle>
+                        
+                            <Button big fontbig primary={primary}>{buttonlabel}</Button>
+
+
+
+
+primary: true,
+    imgstart: '',
+    lighttopline: true,
+    lighttext: true,
+    lighttextdec: true,
+    buttonlabel: 'Get Started',
+    description: 'We help to Code specialist for online businesses',
+    Headline: 'Lead Generation',
+    Topline: 'Marketing Agencies',
+    img: '',
+    alt: 'Image',
+    start: ''
